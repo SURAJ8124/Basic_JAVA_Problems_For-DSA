@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f100729-401a-4c21-9cf2-b682e5be4579" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core-java-basice-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultithreadingAssignmentofChatGpt/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultithreadingAssignmentofChatGpt/StudentRollNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultithreadingAssignmentofChatGpt/StudentsName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringCharacterPractice/Practice.java" afterDir="false" />
+    <list default="true" id="2f100729-401a-4c21-9cf2-b682e5be4579" name="Changes" comment="new changes">
+      <change afterPath="$PROJECT_DIR$/src/StringCharacterPractice/String_Only.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOnjavaTPoint_/BuilderString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOnjavaTPoint_/ImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOnjavaTPoint_/StringComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOnjavaTPoint_/StringConcatination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOnjavaTPoint_/What_isString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCharacterPractice/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCharacterPractice/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +44,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="Classroom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultithreadingAssignmentofChatGpt.Classroom" />
+  <component name="RunManager" selected="Application.BuilderString">
+    <configuration name="BuilderString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOnjavaTPoint_.BuilderString" />
       <module name="Core-java-basice-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultithreadingAssignmentofChatGpt.*" />
+          <option name="PATTERN" value="StringOnjavaTPoint_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +58,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCharacterPractice.Practice" />
+    <configuration name="ImmutableString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOnjavaTPoint_.ImmutableString" />
       <module name="Core-java-basice-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringCharacterPractice.*" />
+          <option name="PATTERN" value="StringOnjavaTPoint_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringComparision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOnjavaTPoint_.StringComparision" />
+      <module name="Core-java-basice-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringOnjavaTPoint_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOnjavaTPoint_.StringConcatination" />
+      <module name="Core-java-basice-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringOnjavaTPoint_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="What_isString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOnjavaTPoint_.What_isString" />
+      <module name="Core-java-basice-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringOnjavaTPoint_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Classroom" />
+        <item itemvalue="Application.BuilderString" />
+        <item itemvalue="Application.StringConcatination" />
+        <item itemvalue="Application.StringComparision" />
+        <item itemvalue="Application.ImmutableString" />
+        <item itemvalue="Application.What_isString" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +129,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696845972380</updated>
     </task>
+    <task id="LOCAL-00001" summary="new changes">
+      <created>1696932164059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696932164059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="new changes" />
   </component>
 </project>
